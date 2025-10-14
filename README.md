@@ -43,11 +43,11 @@
 <code><img height="30" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
 <code><img height="30" alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
 <code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
 <code><img height="30" alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></code>
-<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" alt="maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg"></code>
-<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"></code>
+
 
 
 <!-- tools:end -->
