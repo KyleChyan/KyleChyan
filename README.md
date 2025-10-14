@@ -9,15 +9,23 @@
 
 **Languages and Frameworks:**
 
-#### Languages:
+#### Back-end Languages:
 
 <!-- github-stats:start -->
 <img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=true&theme=buefy" />
 <!-- github-stats:end -->
 
 <!-- languages:start -->
+
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="30" height="30"/></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img height="30" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img height="30" alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
+<code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="30" alt="datagrip" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code>
+<code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+
+#### Front-end Languages:
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
