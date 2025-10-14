@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!! You can call me Kyle~ 
+
+---
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/KyleChyan) 
@@ -6,6 +8,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+I'm a full-stack engineer and developer based in Shanghai, passionate about creating interesting things and solving problems in efficient ways.
+My dream is to establish a technology driven company and have a collaborative technical team to take a small step forward in the development of computer science.
+You can visit my blog <a herf="#">here</a> to learn more. I hope to make more friends on the Internet and learn more about technology and culture. :)
 
 **Languages and Frameworks:**
 
