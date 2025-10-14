@@ -8,17 +8,31 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
  **Languages and Frameworks:**
+
+ #### Languages:
+ 
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png" alt="java" width="20" height="20"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png" alt="javascript" width="20" height="20" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
-   </p>
+</p>
 
+#### Front-end:
 
+#### Back-end:
+
+#### IDEs and Operating Systems:
+
+<p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png" alt="java" width="20" height="20"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png" alt="javascript" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
+</p>
 
 ### 🏆 Github Stats:
 
-<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=true&theme=buefy" />
+
 
 <!--
 **KyleChyan/KyleChyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
