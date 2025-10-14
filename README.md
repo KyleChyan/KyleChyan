@@ -15,46 +15,46 @@
 <img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=true&theme=buefy" />
 <!-- github-stats:end -->
 
-<!-- languages:start -->
+<!-- Back-end languages:start -->
 
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="30" height="30"/></code>&nbsp;
 <code><img height="30" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
-<code><img height="30" alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
-<code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
-<code><img height="30" alt="datagrip" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code>
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
 
+
+<!-- Back-end languages:end -->
+<!-- Front-endlanguages:start -->
 #### Front-end Languages:
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
-<!-- languages:end -->
+<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"></code>
+<code><img height="30" alt="vitejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"></code>
+<code><img height="30" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<!-- Front-endlanguages:end -->
 
 #### Frameworks, IDEs and Operating Systems:
 
 <!-- tools:start -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij-idea/intellij-idea.png" alt="intellij-idea" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="30" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+<code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="30" alt="datagrip" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code>
+<code><img height="30" alt="webstorm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"></code>
+<code><img height="30" alt="pycharm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="30" alt="ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></code>
+<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></code>
+<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg"></code>
+<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
+
 <!-- tools:end -->
 
 
-<p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_24x24.png" alt="java" width="20" height="20"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png" alt="javascript" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
-</p>
+
+
 
 
 <!--
