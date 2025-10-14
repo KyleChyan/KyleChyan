@@ -17,7 +17,8 @@
 
 <!-- Back-end languages:start -->
 
-<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="30" height="30"/></code>&nbsp;
+<code><img height="30" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
