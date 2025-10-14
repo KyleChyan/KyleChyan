@@ -1,6 +1,5 @@
-## Hi there!! You can call me Kyle~ 
+## Hi there!! 👋 You can call me Kyle~ 
 
----
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/KyleChyan) 
@@ -9,9 +8,12 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-I'm a full-stack engineer and developer based in Shanghai, passionate about creating interesting things and solving problems in efficient ways.
-My dream is to establish a technology driven company and have a collaborative technical team to take a small step forward in the development of computer science.
-You can visit my blog <a herf="#">here</a> to learn more. I hope to make more friends on the Internet and learn more about technology and culture. :)
+## I am a developer,full-stack engineer and a well cook😋
+- <img height="20" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> I'm a JAVA engineer and developer based in Shanghai, passionate about creating interesting things and solving problems in efficient ways.
+- 🖥️ My dream is to establish a technology driven company and have a collaborative technical team to take a small step forward in the development of computer science.
+- 🍻 You can visit my blog [here](https://github.com/KyleChyan) to learn more about me. I'm looking forward to make more friends on the Internet and learn more about technology and culture. :)
+
+---
 
 **Languages and Frameworks:**
 
@@ -54,8 +56,6 @@ You can visit my blog <a herf="#">here</a> to learn more. I hope to make more fr
 <code><img height="30" alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></code>
 <code><img height="30" alt="maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg"></code>
 <code><img height="30" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"></code>
-
-
 
 <!-- tools:end -->
 
