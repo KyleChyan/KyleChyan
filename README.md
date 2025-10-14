@@ -7,6 +7,10 @@
 
 ## Hi there 👋
 
+### 🏆 Github Stats:
+
+<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
 <!--
 **KyleChyan/KyleChyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
