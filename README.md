@@ -20,7 +20,7 @@
 #### Back-end Languages:
 
 <!-- github-stats:start -->
-<img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=true&theme=buefy" />
+<img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=false&theme=buefy" />
 <!-- github-stats:end -->
 
 <!-- Back-end languages:start -->
