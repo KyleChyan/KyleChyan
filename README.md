@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-<p>
-    <br>
-    <br>
-<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" alt="programming Languages Logo">
-    <br>
-    <br>
-    </p>
-    
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/KyleChyan) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+ **Languages and Frameworks:**
+<p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+   </p>
+
+
 
 ### 🏆 Github Stats:
 
