@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## I am a developer,full-stack engineer and a well cook.😋
+## I am a developer, an engineer, and a surprisingly good cook. 😄
 - <img height="20" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> I'm a JAVA engineer and developer based in Shanghai, passionate about creating interesting things and solving problems in efficient ways.
 - 🖥️ My dream is to establish a technology driven company and have a collaborative technical team to take a small step forward in the development of computer science.
 - 🍻 You can visit my blog [here](https://github.com/KyleChyan) to learn more about me. I'm looking forward to make more friends on the Internet and learn more about technology and culture! :)
