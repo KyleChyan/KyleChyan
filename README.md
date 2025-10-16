@@ -16,7 +16,7 @@
 
 **Languages and Frameworks:**
 
-#### Back-end Languages:
+#### Back-ends:
 
 <!-- github-stats:start -->
 <img width="50%" align="right" alt="KyleChyan's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=KyleChyan&hide=stars&show_icons=true&hide_border=false&theme=buefy" />
@@ -33,7 +33,7 @@
 
 <!-- Back-end languages:end -->
 <!-- Front-endlanguages:start -->
-#### Front-end Languages:
+#### Front-ends:
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
@@ -42,7 +42,7 @@
 <code><img height="30" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <!-- Front-endlanguages:end -->
 
-#### Frameworks, IDEs and Operating Systems:
+#### Tools, IDEs and Operating Systems:
 
 <!-- tools:start -->
 <code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
